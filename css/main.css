@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif !important;
+  text-align: center;
+}
+
+.bg-gray {
+  background-color: #424949;
+  color: #F39C12;
+}
+
+.container-flex-column {
+  display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 2em;
+}
+
+.high {
+	height: 100vh;
+}
