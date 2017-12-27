@@ -24,3 +24,16 @@ body {
 .high {
 	height: 100vh;
 }
+
+.sinpad {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.margin-right {
+  margin: 0em;
+}
+
+.conpad {
+  padding: 0.2em;
+}
